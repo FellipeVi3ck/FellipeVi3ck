@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center"> Hello World, me chamo Fellipe Vieck! 👋 </h1>
 
-<!--
-**FellipeVi3ck/FellipeVi3ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gif](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
+--------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+<h3>👽 Olá, me chamo Fellipe Vieck! <br>💻 Cursando Análise e Desenvolvimento de Sistemas. <br>😴 Iniciante no mundo Tech. <br>💬 Sempre disposto a ajudar e ser ajudado!
+--------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"><span style="font-size: 20px;">[LinkedIn](https://www.linkedin.com/in/fellipe-vieck-33a628275/)</span>
+
+--------------------------------------------------------------------------
+<h2 align="center"> Minhas Tecnologias! <h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px">
+
+--------------------------------------------------------------------------
+| Cursos | Certificado |
+| -------| ----------- |
+| Python | [Certificado](https://www.dio.me/certificate/42AN9SOC/share)
