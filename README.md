@@ -12,8 +12,11 @@
 <h2 align="center"> Minhas Tecnologias! <h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="100px"/>
 
 --------------------------------------------------------------------------
 | Cursos | Certificado |
 | -------| ----------- |
 | Python | [Certificado](https://www.dio.me/certificate/42AN9SOC/share)
+|Github Certification | [certificado](https://www.dio.me/certificate/NGDHIOR6/share)
+|Versionamento de Código com Git e GitHub | [Certificado](https://www.dio.me/certificate/UIRZQIC0/share)
