@@ -18,5 +18,5 @@
 | Cursos | Certificado |
 | -------| ----------- |
 | Python | [Certificado](https://www.dio.me/certificate/42AN9SOC/share)
-|Github Certification | [certificado](https://www.dio.me/certificate/NGDHIOR6/share)
+|Github Certification | [Certificado](https://www.dio.me/certificate/NGDHIOR6/share)
 |Versionamento de Código com Git e GitHub | [Certificado](https://www.dio.me/certificate/UIRZQIC0/share)
