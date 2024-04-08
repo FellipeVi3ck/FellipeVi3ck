@@ -24,11 +24,7 @@
 --------------------------------------------------------------------------
 | Cursos | Certificados |
 | -------| ----------- |
-
 | Python | [Certificado](https://www.dio.me/certificate/42AN9SOC/share)
-
 | Github Certification | [Certificado](https://www.dio.me/certificate/NGDHIOR6/share)
-
 | Versionamento de Código com Git e GitHub | [Certificado](https://www.dio.me/certificate/UIRZQIC0/share)
-
 | Banco de Dados | [Certificado](https://www.udemy.com/certificate/UC-2b861248-fbbf-466f-9f48-46398bd2e197/)
