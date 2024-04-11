@@ -16,6 +16,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"width="80px">
+          
           
 
         
@@ -28,3 +30,4 @@
 | Github Certification | [Certificado](https://www.dio.me/certificate/NGDHIOR6/share)
 | Versionamento de Código com Git e GitHub | [Certificado](https://www.dio.me/certificate/UIRZQIC0/share)
 | Banco de Dados | [Certificado](https://www.udemy.com/certificate/UC-2b861248-fbbf-466f-9f48-46398bd2e197/)
+| Docker | [Certificado]()
