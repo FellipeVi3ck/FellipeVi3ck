@@ -17,6 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"width="80px">
           
           
 
@@ -31,3 +32,4 @@
 | Versionamento de Código com Git e GitHub | [Certificado](https://www.dio.me/certificate/UIRZQIC0/share)
 | Banco de Dados | [Certificado](https://www.udemy.com/certificate/UC-2b861248-fbbf-466f-9f48-46398bd2e197/)
 | Docker | [Certificado](https://www.udemy.com/certificate/UC-dffeed35-0b45-4d2f-80ed-5885c8243d85/)
+| AWS-SAA-C03 | [Certificado](https://github.com/FellipeVi3ck/PDF-AWS/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
